@@ -2,5 +2,6 @@ Laravelの基本練習で作成した
 簡単なtodoアプリです。
 
 デモ
-(https://git.heroku.com/nana-techis-todolaravel.git)
+[Webサイトを見る](https://nana-techis-todolaravel.herokuapp.com/)
+
 
